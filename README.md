@@ -42,9 +42,9 @@
 | Name | Value | Description |
 |---|---|---|
 |csv_path|./csv/|Path in which you want the CSV to be Generated |
-|project_id|670|Project Id of the Project which you want to get the details for|
-|redmine_url|https://support.credenceanalytics.com | URL of the Redmine, There are different URLs for Redmine according to Vendor|
-|api_token|YOUR-API-KEY|API Key of the User using which we will pull the data from Redmine |
+|project_id|<<PROJECT_CODE>>|Project Id of the Project which you want to get the details for|
+|redmine_url|<<YOUR_REDMINE_URL>> | URL of the Redmine, There are different URLs for Redmine according to Vendor|
+|api_token|<<YOUR_API_KEY_API>> | Key of the User using which we will pull the data from Redmine |
 |csv_output_name|detailed.csv or summary-Month.csv |This will be used as file name, Output CSV Names|
 |severnity|1,2,3,4|Prioritywise Count from low to showstopper |
 |goal|95 for one_and_two and 80 for three_and_four |Goals include Hours , one and two = 95 hours, so and so |
