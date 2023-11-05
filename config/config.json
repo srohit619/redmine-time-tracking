@@ -1,0 +1,23 @@
+{
+    "csv_path": "./csv/",
+    "project_id":"<<PROJECT_CODE>>",
+    "redmine_url":"<<REDMINE_URL>>",
+    "api_token":"<<API_TOKEN>>",
+    "redmine_username":"<<USERNAME>>",
+    "redmine_password":"<<PASSWORD>>",
+    "csv_output_name":{
+        "detailed_csv":"detailed.csv",
+        "monthwise_csv":"summary-Month.csv"
+    },
+    "severnity":{
+        "Showstopper":"1",
+        "High":"2",
+        "Medium":"3",
+        "Low":"4"
+
+    },
+    "goal":{
+        "one_and_two":95,
+        "three_and_four":80
+    }
+}
