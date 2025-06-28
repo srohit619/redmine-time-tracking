@@ -32,7 +32,7 @@
 * Get the API KEY from your Redmine
     * On Redmine click My Account and on the left side you will find API Key  
 * Get the Project ID of which you want to extract data
-    *  Goto https://support.credenceanalytics.com/projects.json and search the project and copy paste the Project ID into the config.json file.
+    *  Goto https://<<redmine_api>>/projects.json and search the project and copy paste the Project ID into the config.json file.
 * Extract the zip file (redmine-time-track)
 * Navigate to config folder and open config.json and then add or modify the following changes 
 
